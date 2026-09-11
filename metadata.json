@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist Lecture PDF Converter",
+  "description": "認知心理学の観点から大学の講義資料PDFを最適化し、認知ノイズのないミニマルな学習用PDF（要約・単語集・テスト）に変換・ダウンロードするアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
